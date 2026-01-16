@@ -2,6 +2,8 @@
 
 The purpose of this project is to create a responsive menu with flexbox.
 
+[Page Link](https://carlab09.github.io/menu_com_flex_box/)
+
 #### Results:
 *  View the optimal layout for the page depending on their device's screen size
 *  See hover states for all interactive elements on the page
